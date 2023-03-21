@@ -69,7 +69,7 @@
  * the keyboard layout independent.
  * https://tools.suckless.org/tabbed/patches/keycode/
  */
-#define KEYCODE_PATCH 0
+#define KEYCODE_PATCH 1
 
 /* This patch enables for function handling on KeyRelease events.
  * For example usage see: hidetabs
